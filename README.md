@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://pypi.org/user/githubjacky/">
-    <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
+    <img src="https://img.shields.io/badge/PyPi-Hsiu--Hsuan Yeh-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
 
 
