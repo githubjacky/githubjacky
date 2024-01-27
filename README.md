@@ -1,7 +1,9 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hsiu-Hsuan(Jacky)+Yeh;Economics+Research+Assistant+%7C+Master+Student+%7C;Econometrics+%7C+Social+Network+Analysis+%7C;AI+%7C+Large-Language-Model" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hsiu-Hsuan(Jacky)+%7C+Master+Student;Econometrics+%7C+Social+Network+Analysis+%7C;AI+%7C+Large-Language-Model" alt="Typing SVG" />
 </a>
+    
+<br/>
 <br/>
 
 <a href="https://githubjacky.github.io/">
@@ -29,13 +31,17 @@
 
 <br/> 
 
+<!--
 <a href="https://github.com/githubjacky">
     <img src="https://github-readme-stats.vercel.app/api?username=githubjacky&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a>
+-->
+
 
 <a href="https://github.com/githubjacky">
     <img src="https://github-stats-alpha.vercel.app/api?username=githubjacky&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+
 
 </p>
 
@@ -94,9 +100,9 @@
 | [Cross The Floor](https://github.com/drkostas/Cross-The-Floor) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Cross-The-Floor?style=flat-square&labelColor=black"/> | ![Sankey Diagram](https://img.shields.io/badge/Sankey-black?style=flat-square&logo=plotly) <br> ![Wiki](https://img.shields.io/badge/Scrapper-black?style=flat-square&logo=wikipedia)|
 | [2D Shooter Game](https://github.com/drkostas/shooter-game-with-p5js) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/shooter-game-with-p5js?style=flat-square&labelColor=black"/> | ![p5](https://img.shields.io/badge/P5.js-black?style=flat-square&logo=p5dotjs)|
 | [Quantum Mechanics Quiz App](https://github.com/drkostas/Quantum-Mechanics-Quiz-App) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Quantum-Mechanics-Quiz-App?style=flat-square&labelColor=black"/> | ![android](https://img.shields.io/badge/App-black?style=flat-square&logo=android)|
-
-</td></tr> </table>
 -->
+</td></tr> </table>
+
 
 <details>
 <summary>📈 Stats</summary>
