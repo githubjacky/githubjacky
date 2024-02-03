@@ -60,6 +60,10 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [telecom](https://github.com/githubjacky/telecom) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/telecom?style=flat-square&labelColor=black"/> | ![cuDF](https://img.shields.io/badge/RAPIDS/cuDF-black?style=flat-square) ![cuGraph](https://img.shields.io/badge/RAPIDS/cuGraph-black?style=flat-square)
+| [EPU_denoise](https://github.com/githubjacky/EPU_denoise) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/EPU_denoise?style=flat-square&labelColor=black"/> | ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-black?style=flat-square)
+| [notorious_cls](https://github.com/githubjacky/notorious_cls) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/EPU_denoise?style=flat-square&labelColor=black"/>
+| [minimum_wage](https://github.com/githubjacky/minimum_wage) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/minimum_wage?style=flat-square&labelColor=black"/> | ![xgboost](https://img.shields.io/badge/xgboost-black?style=flat-square) ![Optuna](https://img.shields.io/badge/Optuna-black?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-black?style=flat-square)
+| [us_regional_database ](https://github.com/githubjacky/us_regional_database ) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/us_regional_database ?style=flat-square&labelColor=black"/>
 
 
 </td><td>
@@ -86,6 +90,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [StochasticFrontiers.jl](https://github.com/githubjacky/StochasticFrontiers.jl) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/StochasticFrontiers.jl?style=flat-square&labelColor=black"/> | ![Optim.jl](https://img.shields.io/badge/Optim.jl-black?style=flat-square) ![FLoops.jl](https://img.shields.io/badge/FLoops.jl-black?style=flat-square) ![ForwardDiff.jl](https://img.shields.io/badge/ForwardDiff.jl-black?style=flat-square)
+| [BasicIntegration.jl](https://github.com/githubjacky/BasicIntegration.jl) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/BasicIntegration.jl?style=flat-square&labelColor=black"/> | ![FastGaussQuadrature.jl](https://img.shields.io/badge/FastGaussQuadrature.jl-black?style=flat-square) ![HaltonSequences.jl](https://img.shields.io/badge/HaltonSequences.jl-black?style=flat-square)
 
 </td></tr> </table>
 
@@ -102,7 +107,7 @@
 | [Taiwan-movie-analysis](https://github.com/githubjacky/Taiwan-movie-analysis) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/Taiwan-movie-analysis?style=flat-square&labelColor=black"/> 
 | [Jackcompiler-syntax-analyser](https://github.com/githubjacky/Jackcompiler-syntax-analyser) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/Jackcompiler-syntax-analyser?style=flat-square&labelColor=black"/> 
 | [IF_USA](https://github.com/githubjacky/IF_USA) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/IF_USA?style=flat-square&labelColor=black"/> 
-
+| [emp_gdp](https://github.com/githubjacky/emp_gdp) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/emp_gdp?style=flat-square&labelColor=black"/> 
 </td><td>
 
 |Title | Stars | Technologies|
