@@ -61,6 +61,7 @@
 |--|--|--|
 | [telecom](https://github.com/githubjacky/telecom) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/telecom?style=flat-square&labelColor=black"/> | ![cuDF](https://img.shields.io/badge/RAPIDS/cuDF-black?style=flat-square) ![cuGraph](https://img.shields.io/badge/RAPIDS/cuGraph-black?style=flat-square)
 | [EPU_denoise](https://github.com/githubjacky/EPU_denoise) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/EPU_denoise?style=flat-square&labelColor=black"/> | ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-black?style=flat-square)
+| [translate_english_address_to_chinese ](https://github.com/githubjacky/translate_english_address_to_chinese ) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/translate_english_address_to_chinese ?style=flat-square&labelColor=black"/> | ![llm-research](https://img.shields.io/badge/my_package-llm--reseaech-black?style=flat-square)
 | [notorious_cls](https://github.com/githubjacky/notorious_cls) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/EPU_denoise?style=flat-square&labelColor=black"/>
 | [minimum_wage](https://github.com/githubjacky/minimum_wage) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/minimum_wage?style=flat-square&labelColor=black"/> | ![xgboost](https://img.shields.io/badge/xgboost-black?style=flat-square) ![Optuna](https://img.shields.io/badge/Optuna-black?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-black?style=flat-square)
 | [us_regional_database ](https://github.com/githubjacky/us_regional_database ) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/us_regional_database ?style=flat-square&labelColor=black"/>
@@ -78,12 +79,13 @@
 
 
 <table>
-<tr><th>Bots </th><th>Julia Projects </th></tr>
+<tr><th>Bots</th><th>Julia Projects </th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
 |--|--|--|
 | [ptt-crawler](https://github.com/githubjacky/ptt-crawler) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/ptt-crawler?style=flat-square&labelColor=black"/> 
+| [bigkinds-loader](https://github.com/githubjacky/bigkinds-loader) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/bigkinds-loader?style=flat-square&labelColor=black"/> | ![Playwright](https://img.shields.io/badge/Playwright-black?style=flat-square) ![httpx](https://img.shields.io/badge/httpx-black?style=flat-square) ![selectolax](https://img.shields.io/badge/selectolax-black?style=flat-square) ![multiprocessing](https://img.shields.io/badge/httpx-black?style=flat-square) ![selectolax](https://img.shields.io/badge/multiprocessing-black?style=flat-square)
 
 </td><td>
 
@@ -113,6 +115,8 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [data-science-template](https://github.com/githubjacky/data-science-template) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/data-science-template?style=flat-square&labelColor=black"/> | ![docker-compose](https://img.shields.io/badge/docker--compose-black?style=flat-square) ![sphinx-doc](https://img.shields.io/badge/sphinx--doc-black?style=flat-square) ![latex-beamer](https://img.shields.io/badge/latex--beamer-black?style=flat-square) <br> ![dvc](https://img.shields.io/badge/dvc-black?style=flat-square) ![mlflow-tracking](https://img.shields.io/badge/mlflow--tracking-black?style=flat-square) ![poetry-python](https://img.shields.io/badge/poetry--python-black?style=flat-square) <br> ![hydra-core](https://img.shields.io/badge/hydra--core-black?style=flat-square)
+| [multilingual-latex-template ](https://github.com/githubjacky/multilingual-latex-template ) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/multilingual-latex-template ?style=flat-square&labelColor=black"/>
+
 
 </td></tr>
 </table>
@@ -125,6 +129,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
+| [lazyIDE](https://github.com/githubjacky/lazyIDE) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/lazyIDE?style=flat-square&labelColor=black"/> | ![neovim](https://img.shields.io/badge/neovim-black?style=flat-square)
 | [archSetup](https://github.com/githubjacky/archSetup) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/archSetup?style=flat-square&labelColor=black"/> | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-black?style=flat-square)
 | [nvimIDE](https://github.com/githubjacky/nvimIDE) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/nvimIDE?style=flat-square&labelColor=black"/> | ![neovim](https://img.shields.io/badge/neovim-black?style=flat-square)
 | [st_rice](https://github.com/githubjacky/st_rice) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/st_rice?style=flat-square&labelColor=black"/> 
