@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hsiu-Hsuan(Jacky)+%7C+MA;Econometrics+%7C+Social+Network+Analysis+%7C;AI+%7C+Large-Language-Model" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hsiu-Hsuan(Jacky)+%7C+MA;Econometrics+%7C+Social+Network+Analysis;AI+%7C+Large-Language-Model" alt="Typing SVG" />
 </a>
     
 <br/>
@@ -66,7 +66,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-
+| [llm-research](https://github.com/githubjacky/llm-research) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/llm-research?style=flat-square&labelColor=black"/> | ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-black?style=flat-square)
 
 
 </td></tr>
