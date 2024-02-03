@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hsiu-Hsuan(Jacky)+%7C+Master+Student;Econometrics+%7C+Social+Network+Analysis+%7C;AI+%7C+Large-Language-Model" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hsiu-Hsuan(Jacky)+%7C+MA;Econometrics+%7C+Social+Network+Analysis+%7C;AI+%7C+Large-Language-Model" alt="Typing SVG" />
 </a>
     
 <br/>
@@ -59,7 +59,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Minecraft-AI](https://github.com/drkostas/Minecraft-AI) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [telecom](https://github.com/githubjacky/telecom) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/telecom?style=flat-square&labelColor=black"/> | ![cuDF](https://img.shields.io/badge/RAPIDS/cuDF-black?style=flat-square) ![cuGraph](https://img.shields.io/badge/RAPIDS/cuGraph-black?style=flat-square)
 
 
 </td><td>
