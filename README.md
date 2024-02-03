@@ -97,6 +97,11 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [course-recommendation](https://github.com/githubjacky/course-recommendation) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/course-recommendation?style=flat-square&labelColor=black"/> | ![pytorch-lightning](https://img.shields.io/badge/pytorch--lightning-black?style=flat-square) ![BM25](https://img.shields.io/badge/BM25-black?style=flat-square) ![Collaborative_Filtering](https://img.shields.io/badge/Collaborative_Filtering-black?style=flat-square)
+| [markov-switching](https://github.com/githubjacky/markov-switching) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/markov-switching?style=flat-square&labelColor=black"/> | ![Optim.jl](https://img.shields.io/badge/Optim.jl-black?style=flat-square) ![FLoops.jl](https://img.shields.io/badge/FLoops.jl-black?style=flat-square)
+| [bitcoin-variance-analysis](https://github.com/githubjacky/bitcoin-variance-analysis) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/bitcoin-variance-analysis?style=flat-square&labelColor=black"/>  | ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square) ![xgboost](https://img.shields.io/badge/xgboost-black?style=flat-square) ![GARCH](https://img.shields.io/badge/GARCH-black?style=flat-square) ![shap](https://img.shields.io/badge/shap-black?style=flat-square)
+| [Taiwan-movie-analysis](https://github.com/githubjacky/Taiwan-movie-analysis) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/Taiwan-movie-analysis?style=flat-square&labelColor=black"/> 
+| [Jackcompiler-syntax-analyser](https://github.com/githubjacky/Jackcompiler-syntax-analyser) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/Jackcompiler-syntax-analyser?style=flat-square&labelColor=black"/> 
+| [IF_USA](https://github.com/githubjacky/IF_USA) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/IF_USA?style=flat-square&labelColor=black"/> 
 
 </td><td>
 
@@ -104,7 +109,25 @@
 |--|--|--|
 | [data-science-template](https://github.com/githubjacky/data-science-template) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/data-science-template?style=flat-square&labelColor=black"/> | ![docker-compose](https://img.shields.io/badge/docker--compose-black?style=flat-square) ![sphinx-doc](https://img.shields.io/badge/sphinx--doc-black?style=flat-square) ![latex-beamer](https://img.shields.io/badge/latex--beamer-black?style=flat-square) <br> ![dvc](https://img.shields.io/badge/dvc-black?style=flat-square) ![mlflow-tracking](https://img.shields.io/badge/mlflow--tracking-black?style=flat-square) ![poetry-python](https://img.shields.io/badge/poetry--python-black?style=flat-square) <br> ![hydra-core](https://img.shields.io/badge/hydra--core-black?style=flat-square)
 
-</td></tr> </table>
+</td></tr>
+</table>
+
+
+<table>
+<tr><th>Arch Linux Setup</tr>
+<tr><td>
+
+
+|Title | Stars | Technologies|
+|--|--|--|
+| [archSetup](https://github.com/githubjacky/archSetup) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/archSetup?style=flat-square&labelColor=black"/> | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-black?style=flat-square)
+| [nvimIDE](https://github.com/githubjacky/nvimIDE) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/nvimIDE?style=flat-square&labelColor=black"/> | ![neovim](https://img.shields.io/badge/neovim-black?style=flat-square)
+| [st_rice](https://github.com/githubjacky/st_rice) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/st_rice?style=flat-square&labelColor=black"/> 
+| [slock_rice](https://github.com/githubjacky/slock_rice) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/slock_rice?style=flat-square&labelColor=black"/> 
+
+</td></tr>
+</table>
+
 
 <details>
 <summary>📈 Stats</summary>
