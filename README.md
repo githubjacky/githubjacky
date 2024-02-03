@@ -79,11 +79,13 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
+| [ptt-crawler](https://github.com/githubjacky/ptt-crawler) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/ptt-crawler?style=flat-square&labelColor=black"/> 
 
 </td><td>
 
 |Title | Stars | Technologies|
 |--|--|--|
+| [StochasticFrontiers.jl](https://github.com/githubjacky/StochasticFrontiers.jl) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/StochasticFrontiers.jl?style=flat-square&labelColor=black"/> | ![Optim.jl](https://img.shields.io/badge/Optim.jl-black?style=flat-square) ![FLoops.jl](https://img.shields.io/badge/FLoops.jl-black?style=flat-square) ![ForwardDiff.jl](https://img.shields.io/badge/ForwardDiff.jl-black?style=flat-square)
 
 </td></tr> </table>
 
