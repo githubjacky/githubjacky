@@ -116,6 +116,7 @@
 |--|--|--|
 | [data-science-template](https://github.com/githubjacky/data-science-template) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/data-science-template?style=flat-square&labelColor=black"/> | ![docker-compose](https://img.shields.io/badge/docker--compose-black?style=flat-square) ![sphinx-doc](https://img.shields.io/badge/sphinx--doc-black?style=flat-square) ![latex-beamer](https://img.shields.io/badge/latex--beamer-black?style=flat-square) <br> ![dvc](https://img.shields.io/badge/dvc-black?style=flat-square) ![mlflow-tracking](https://img.shields.io/badge/mlflow--tracking-black?style=flat-square) ![poetry-python](https://img.shields.io/badge/poetry--python-black?style=flat-square) <br> ![hydra-core](https://img.shields.io/badge/hydra--core-black?style=flat-square)
 | [multilingual-latex-template ](https://github.com/githubjacky/multilingual-latex-template ) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/multilingual-latex-template ?style=flat-square&labelColor=black"/>
+| [python-package-template](https://github.com/githubjacky/python-package-template) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/python-package-template?style=flat-square&labelColor=black"/> | ![docker-compose](https://img.shields.io/badge/docker--compose-black?style=flat-square) ![sphinx-doc](https://img.shields.io/badge/sphinx--doc-black?style=flat-square) ![poetry-python](https://img.shields.io/badge/poetry--python-black?style=flat-square)
 
 
 </td></tr>
