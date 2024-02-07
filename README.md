@@ -85,7 +85,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [ptt-crawler](https://github.com/githubjacky/ptt-crawler) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/ptt-crawler?style=flat-square&labelColor=black"/> 
-| [bigkinds-loader](https://github.com/githubjacky/bigkinds-loader) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/bigkinds-loader?style=flat-square&labelColor=black"/> | ![Playwright](https://img.shields.io/badge/Playwright-black?style=flat-square) ![httpx](https://img.shields.io/badge/httpx-black?style=flat-square) ![selectolax](https://img.shields.io/badge/selectolax-black?style=flat-square) ![multiprocessing](https://img.shields.io/badge/httpx-black?style=flat-square) ![selectolax](https://img.shields.io/badge/multiprocessing-black?style=flat-square)
+| [bigkinds-loader](https://github.com/githubjacky/bigkinds-loader) | <img alt="Stars" src="https://img.shields.io/github/stars/githubjacky/bigkinds-loader?style=flat-square&labelColor=black"/> | ![Playwright](https://img.shields.io/badge/Playwright-black?style=flat-square) ![httpx](https://img.shields.io/badge/httpx-black?style=flat-square) ![selectolax](https://img.shields.io/badge/selectolax-black?style=flat-square)
 
 </td><td>
 
