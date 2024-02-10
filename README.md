@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/githubjacky">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hsiu-Hsuan(Jacky)+%7C+MA;Econometrics+%7C+Social+Network+Analysis;AI+%7C+Large-Language-Model" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&repeat=false&lines=Hsiu-Hsuan(Jacky) Yeh+%7C+MA;Econometrics+%7C+Social+Network+Analysis;Large-Language-Model+%7C+Tabular-Machine-Learning" alt="Typing SVG" />
 </a>
     
 <br/>
