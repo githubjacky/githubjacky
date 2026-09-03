@@ -36,10 +36,6 @@
 
 
 
-
-<!-- <details> -->
-📈 My Github Stats
-
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=githubjacky&theme=dracula)  -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=githubjacky&theme=dracula) 
