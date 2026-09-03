@@ -1,11 +1,3 @@
-<p align="center">
-<a href="https://github.com/githubjacky">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&repeat=false&lines=Hsiu-Hsuan(Jacky) Yeh+%7C+MA;Econometrics+%7C+Social+Network+Analysis;Large+Language+Models+%7C+Tabular+Machine+Learning" />
-</a>
-    
-<br/>
-<br/>
-
 <a href="https://githubjacky.github.io/">
     <img src="https://img.shields.io/badge/Website-github.io-red?style=flat-square">
 </a> 
